@@ -1,6 +1,6 @@
 # Medora — AI Health Assistant (Web App)
 
-A calm, chat-based AI health assistant for Cameroon: describe your symptoms, get clear guidance, and get connected to a real doctor when it matters. Built as the practical implementation of the "Health Assistant Platform" project (Achu Ransom, Supervisor: Engr. Nyanga Fabrice).
+A calm, chat-based AI health assistant for Cameroon: describe your symptoms, get clear guidance, and get connected to a real doctor when it matters.
 
 ## Stack
 
